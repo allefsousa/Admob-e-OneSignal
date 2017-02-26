@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_648c55958b9e5291c2bc7a3fe2bf4b87987181cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_84d705e48d3783bfa851c35d9d260d88070d265a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_5ebfd501a16433839ac458b8ed9b73e140229c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_e663e446eccd9dec7e2e401d834b5a7ef0967fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_e5f381469c82855601ce6e07c23a2c64245b8da3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_20de1c3c68c8d417e4adfc7508ebd4b44408795c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_2399a1fd88f0cd3500dc64a619ab7d9ce87789b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_6054e1fb8c7b2296903e3013074a94ddb1819b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_4fe03e0d21a9142f1c4560591c0040d35b64bd57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_2bbfc15036bf41b2e89834cb59a5630e3ada99bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_28aef638326b99c9ade31f68ffdfef59b292ac09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8da29354d1b2204c0830502d8587a3e12fa41133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_841f130ec9af720ef6e25b0387ff5099f85c6f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_cd29a7a4cfbbd7870bf31d0ebc0905d5be6f17d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d0649711857193ab12f434fa414d7402af90900">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1bbd2aec3391ed8c7c7498f3ec8703e77f60c797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_47061fea7e459067c7ba1bee93667890dbb1daff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_5aa54de16e7df662046f18024fd1ef9a50f33738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_b1a656f93dc6b9919a2fa4019d932bdd79f45348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_ae52df412df79af2492fd88e9f38dd494728aedc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_802b50d9013aa34ddbb42d6d893ad4959ba1c0ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_4e22d006121e1cb0444570b7bbe10fe32e11160a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_759cda2b2df37be87a6206b7f13ea7c624e3bdae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.onesignal-OneSignal-3.4.3_a055c5fead2c50223a525d64254ae55776990d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_dedaccd2ee36ae38a69a59d9bcbfaba0cc54734f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9a71bba9e93432a40e4ef22e3ac6d0577e65092">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f127743b5218b0a6242df6024c589d77455f3c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_fcacd26b4f193144ccf1531b9b594eb382d46963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Allef\Desktop\admob\AdmobExample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_2a18abb25d73f0702e8c06edf2f325caa624070f\classes.dex" />
+    </item>
+
+</items>

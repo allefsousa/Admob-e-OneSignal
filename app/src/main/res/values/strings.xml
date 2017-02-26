@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adbmob</string>
+    <string name="bannerAdmob">ca-app-pub-2296995403494910/7627228388</string>
+    <string name="admobinterstitial">ca-app-pub-2296995403494910/9103961585</string>
+</resources>
